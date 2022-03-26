@@ -15,7 +15,6 @@ from fbprophet.plot import plot_plotly
 import pandas as pd
 import sklearn
 import datetime
-import numpy as np
 import tkinter as tk
 
 #DATE
