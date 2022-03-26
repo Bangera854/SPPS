@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run spps.py
+web: gunicorn app:app
